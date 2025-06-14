@@ -14,7 +14,7 @@ Derived columns created during analysis:
 
 ## Project Structure
 - **data/**: Contains `7K UNIQUE crime articles.csv`.
-- **SDP3.ipynb**: Main notebook with the following sections:
+- **Analysis.ipynb**: Main notebook with the following sections:
   - **Data Preprocessing**: Loaded and cleaned data using pandas, extracted years, and categorized articles.
   - **Temporal Analysis**: Analyzed article distribution by year (2005–2022).
   - **Categorical Analysis**: Examined crime categories (e.g., Violent Crime, Arrests).
