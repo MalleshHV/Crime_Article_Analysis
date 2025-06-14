@@ -45,7 +45,7 @@ Derived columns created during analysis:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/MalleshHV/Crime_Article_Analysis>
+   git clone https://github.com/MalleshHV/Crime_Article_Analysis
 2. Install dependencies:
    ```bash
     pip install pandas matplotlib seaborn nltk wordcloud ipywidgets
